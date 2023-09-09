@@ -1,0 +1,7 @@
+./main
+
+*.d
+*.o
+*.ko
+*.obj
+*.elf
