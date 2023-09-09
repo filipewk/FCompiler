@@ -1,3 +1,5 @@
+![C/C++ CI](https://github.com/filipewk/FCompiler/actions/workflows/c-cpp.yml/badge.svg)
+
 # FCompiler
 
 FCompiler is a simple C project made for compiling C projects and file into x86 32-bit machine code.
